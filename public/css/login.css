@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.m-login__form-action button{
+    font-family: 'Roboto', sans-serif!important;
+}
+.m-login__logo img{
+    width: 100%;
+}
+.m-login.m-login--1 .m-login__wrapper .m-login__head .m-login__title{
+    font-weight: bold;
+    color: #716aca;
+}
+.m-login.m-login--1 .m-login__wrapper .m-login__form{
+    margin-top: 1rem;
+}
+.m-login.m-login--1 .m-login__wrapper .m-login__logo{
+    margin: 0 auto 2rem auto;
+}
+.yeu-cau-ho-tro{
+    text-align: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    width: 200px;
+    background: #9828f4;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 25px;
+    font-weight: bold;
+    box-shadow: 0px 5px 10px 2px rgba(152, 22, 244, 0.19) !important;
+}
+.yeu-cau-ho-tro > a{
+    color: #fff!important;
+    display: block;
+    width: 100%;
+    text-decoration: none;
+}
+.yeu-cau-ho-tro:hover > a{
+    text-decoration: underline;
+}

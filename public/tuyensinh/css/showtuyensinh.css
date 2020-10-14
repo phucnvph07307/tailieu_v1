@@ -1,0 +1,103 @@
+.m-content,
+.btn {
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.fillter-area {
+    border: 1px solid #777777;
+    border-top: none;
+    height: auto;
+}
+
+.fillter-title {
+    background-color: #1F3247;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+.fillter-name {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.fillter-form form {
+    padding-top: 10px;
+}
+
+.btn-fillter {
+    width: 100px;
+    height: 35px;
+}
+
+table {
+    font-size: 12px !important;
+}
+
+thead {
+    background-color: #1F3247;
+    color: white;
+}
+
+thead tr {
+    height: 50px;
+    text-align: center;
+}
+
+thead tr th {
+    vertical-align: top !important;
+    border-right: 1px solid #DEDEDE;
+}
+
+tbody tr:nth-child(even) {
+    background: #C5D5E4
+}
+
+tbody tr {
+    height: 50px;
+    text-align: center;
+}
+
+tbody tr td {
+    border-right: 1px solid #DEDEDE;
+}
+
+.phantrang {
+    float: right;
+}
+
+.btn-secondary {
+    border-radius: 10px;
+    border: 1px solid #1A5993;
+    color: #1A5993;
+}
+
+.bieumau {
+    line-height: 40px;
+}
+
+
+/* table{
+    width: 200% !important;
+} */
+.select2-container--default .select2-selection--single{
+    border: none;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    padding: 0px;
+    padding-left: 10px;
+    height: 30,6px;
+    border: none;
+    border: 1px solid #1F3247 !important;
+    font-size: 13px;
+    border-radius: 0.25rem;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    height: 21px;
+    position: absolute;
+    top: 15px;
+    right: -4px;
+    width: 20px;
+}

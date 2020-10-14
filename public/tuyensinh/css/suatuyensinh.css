@@ -1,0 +1,116 @@
+.m-content,
+.btn {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.fillter-area {
+  border: 1px solid #777777;
+  border-top: none;
+  height: 230px;
+}
+
+
+.fillter-title {
+  background-color: #1F3247;
+  color: #fff;
+  padding: 10px 30px;
+}
+
+.form-group {
+  padding: 0px;
+}
+
+.fillter-name {
+  font-weight: bold;
+  padding: 0px;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+}
+
+.fillter-form form {
+  padding-top: 10px;
+}
+
+.btn-fillter {
+  width: 100px;
+  height: 35px;
+}
+
+
+thead {
+  background-color: #1F3247;
+  color: white;
+}
+
+thead tr {
+  height: 50px;
+}
+
+thead tr th {
+  padding: 0px !important;
+  text-align: center;
+  line-height: 50px;
+  border-right: 1px solid #DEDEDE;
+}
+
+tbody tr:nth-child(even) {
+  background: #C5D5E4
+}
+
+tbody tr:nth-child(odd) {
+  background: #fff
+}
+
+tbody tr {
+  height: 50px;
+
+}
+
+tbody tr td:first-child {
+  padding: 0px 0px 0px 10px !important;
+  line-height: 50px;
+  border-right: 1px solid #DEDEDE;
+}
+
+tbody tr td {
+  line-height: 50px;
+  border-right: 1px solid #DEDEDE;
+}
+
+.phantrang {
+  float: right;
+}
+
+.btn-secondary {
+  border-radius: 10px;
+  border: 1px solid #1A5993;
+  color: #1A5993;
+}
+
+.bieumau {
+  line-height: 40px;
+}
+
+.titile-head p {
+
+  font-size: 24px;
+  line-height: 28px;
+  color: #1A5993;
+}
+
+.batbuoc {
+  color: red;
+}
+
+.form-control {
+  border: 1px solid #1A5993;
+  width: 150px;
+  height: 40px;
+  margin: 0 auto;
+}
